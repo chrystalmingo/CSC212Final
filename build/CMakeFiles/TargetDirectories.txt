@@ -1,0 +1,4 @@
+/Users/chrystalmingo3/Desktop/Git Final Project for 212/CSC212Final/build/CMakeFiles/rebuild_cache.dir
+/Users/chrystalmingo3/Desktop/Git Final Project for 212/CSC212Final/build/CMakeFiles/edit_cache.dir
+/Users/chrystalmingo3/Desktop/Git Final Project for 212/CSC212Final/build/CMakeFiles/main.dir
+/Users/chrystalmingo3/Desktop/Git Final Project for 212/CSC212Final/build/CMakeFiles/hash.dir

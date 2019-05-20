@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chrystalmingo3/Desktop/Git Final Project for 212/CSC212Final/hash.cpp
+cstdlib
+-
+iostream
+-
+string
+-
+hash.h
+/Users/chrystalmingo3/Desktop/Git Final Project for 212/CSC212Final/hash.h
+
+/Users/chrystalmingo3/Desktop/Git Final Project for 212/CSC212Final/hash.h
+cstdlib
+-
+iostream
+-
+string
+-
+
