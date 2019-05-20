@@ -15,6 +15,7 @@
 - Print all the hash tables that fall under that one index
 - Find College (Search for Key)
 - Remove Items from Hash Table
+
 In the end my project collected student names, and used their college as a key. 
 //Problem from: Paul’s Programming on Implementing Hash Tables Projects.
 
