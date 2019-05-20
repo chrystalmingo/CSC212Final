@@ -22,13 +22,13 @@ int main(){
     Hashy.AddItem("Pam", "NYU");
     Hashy.PrintTable();//Print's entire Hash Table
     Hashy.PrintItemsInIndex(0);//How to see the Hash Table
-
-    while(name != "exit"){
+    string input;
+    while(input != "exit"){
         cout<<"Search for ";
-        cin>>name;
-        if(name != "exit")
+        cin>>input;
+        if(input != "exit")
         {
-            Hashy.FindCollege(name);
+            Hashy.FindCollege(input);
         }
     }
     return 0;

@@ -31,7 +31,7 @@ class hash{
     static const int tableSize = 25; //I just am starting off with a small hash table 
     struct item{ //defined the item and what it contains
         string name; //person's name
-        string college; //person's favorite drink
+        string college; //person's college
         item* next; //pointer to teh next item
     };
     item* HashTable[tableSize]; //Core of our hash table which is just an array with the size.

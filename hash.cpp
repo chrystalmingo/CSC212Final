@@ -129,9 +129,9 @@ void hash::RemoveItem(string name){
         HashTable[index]->college = "empty";
         cout<<name<<" was removed from the hash table"<<endl;
     }
-    //Case 2 (Match is located in teh first item in the bucket but there are more items in the bucket)
+    //Case 2 (Match is located in the first item in the bucket but there are more items in the bucket)
     else if (HashTable[index]->name == name){
-        delPtr = HashTable[index]->name == name; 
+        delPtr->name = HashTable[index]->name; 
         HashTable[index] = HashTable[index]->next; //the second becomes the new first item
         delete delPtr; //deletes first item
 
